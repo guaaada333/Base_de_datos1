@@ -1,3 +1,4 @@
+-- Active: 1779067542727@@127.0.0.1@5432@estudiante
 CREATE TABLE cliente(
     id_cliente SERIAL PRIMARY KEY,
     nome VARCHAR(255) NOT NULL,
